@@ -1,5 +1,5 @@
 import React from "react";
-import { Paper, Button } from "@mui/material";
+import { Paper } from "@mui/material";
 
 const Item = ({ item }) => {
   return (
