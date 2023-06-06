@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import Navbar from "./components/Navbar";
 import ImageCarousel from "./components/ImageCarousel";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -9,6 +10,8 @@ function App() {
       <Navbar />
 
       <ImageCarousel />
+
+      <Footer />
     </div>
   );
 }
