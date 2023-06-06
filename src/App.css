@@ -6,3 +6,7 @@
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
 }
+
+.active {
+  border-bottom: 2px solid #0059bc;
+}
